@@ -1,6 +1,8 @@
 # Description
 Simple script to help you collect all oil rewards at once.
 
+Now deprecated since you can now claim all on the moonrobots webpage.
+
 # Private Keys - WARNING!
 This script will need your private key to work. 
 This is not production ready code. Please be very careful with your private key and never push it to a public repository. 
